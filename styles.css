@@ -31,7 +31,7 @@ p {
 span {
 	font-size: 20px;
 	width: 150px;
-	border: 1px solid black;
+	border: 2px solid black;
 	font-weight: bold;
 	text-align: center;
 	float: right; top :0; right: 0; margin: 0;
@@ -39,15 +39,18 @@ span {
 }
 #nr1 {
 	background-color: rgb(150, 150, 150);
-	color: rgb(0, 0, 0);
+	color: rgb(100, 0, 0);
+	font-weight: bold;
 }
 #nr2 {
 	background-color: rgb(250, 0, 50);
 	color: rgb(250, 250, 250);
+	font-weight: bold;
 }
 #nr3 {
 	background-color: rgb(180, 120, 100);
-	color: rgb(0, 0, 0);
+	color: rgb(0, 0, 100);
+	font-weight: bold;
 }
 }
 
